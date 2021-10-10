@@ -1,0 +1,4 @@
+#Sun Oct 10 23:29:06 ICT 2021
+base.0=D\:\\androi\\android-fundamentals-apps-v2-master\\HelloToast\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
